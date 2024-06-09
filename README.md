@@ -1,6 +1,3 @@
-Certainly! Here's the Readme file in a plain text format:
-
----
 
 # Face Recognition for Biometric Validation
 
